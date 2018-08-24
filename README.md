@@ -1,2 +1,2 @@
 # finanzas
-Snad box for AkkaHttp and Mongodb
+Sand box for AkkaHttp and Mongodb
